@@ -1,6 +1,6 @@
 # pokepages
 
-> A Vue.js project
+> A Vue.js project - mainly as a learning project for Vue. Using [pokeapi.co](https://pokeapi.co) for pokemon data
 
 ## Build Setup
 
